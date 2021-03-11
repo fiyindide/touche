@@ -1,0 +1,166 @@
+#menu{
+    float: right;
+    color:black ;
+}
+#everyday, #standout{
+    color: #1e56cb;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+#right{
+    float: right;
+}
+#phrase1,#phrase2, .quote{
+    margin-top: 100px;
+    font-size: larger;
+    line-height: 30px;
+}
+#word\ slide{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#story{
+    color: white;
+    font-weight: bold;
+}
+.blockquote{
+    text-align: right;
+    margin-top: -50px;
+}
+#dog{
+    margin-top: -600px;
+}
+ #blue{
+     background-color: #1e56cb;
+     padding-top: 100px;
+     padding-bottom: 50px;
+     padding-left: 30px;
+     margin-top: 150px;
+     margin-bottom: 100px;
+ }
+#pattern{
+    margin-top: 50px;
+}
+
+#dognote{
+    margin-top: 200px;
+}
+
+.caption{
+    margin-top: -150px;
+    margin-left: 50px;
+}
+.scroll{
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    margin-top: 150px;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+}
+
+#arrow{
+    margin-left: 20px;
+}
+.mincap{
+    margin-left: -150px;
+    margin-top: 30px;
+
+}
+
+#shirt{
+    margin-top: 200px;
+    margin-left: 30px;
+}
+
+#beer{
+    margin-top: 50px;
+}
+
+#anna{
+    margin-top: 50px;
+
+}
+header{
+    margin-top: 50px;
+
+}
+
+body{
+    margin-left: 25px;
+}
+
+.author{
+    color: white;
+}
+
+footer.img{
+    margin: 20px;
+}
+
+.execution {
+    position: relative;
+    text-align: center;
+    min-height: 500px;
+    padding-top: 150px;
+    margin-top: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.container {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1460px;
+    box-sizing: border-box;
+}
+.execution__inner {
+    position: relative;
+}
+
+.execution .hand {
+    position: absolute;
+    z-index: -1;
+}
+
+.execution .hand--left {
+    top: 70px;
+    right: 50%;
+    margin-right: 250px;
+}
+
+.execution .hand--right {
+    top: -210px;
+    left: 50%;
+    margin-left: 250px;
+}
+
+.execution__subheading {
+    font-style: italic;
+    margin-bottom: 10px;
+    font-size: 42px;
+    font-size: 4.2rem;
+}
+
+.execution__heading {
+    color: #5152fc;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 62px;
+    font-size: 6.2rem;
+}
+
+.execution__undertext {
+    position: relative;
+    color: #eaedf2;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 224px;
+    font-size: 22.4rem;
+    line-height: 1;
+    z-index: -2;
+    top: -30px;
+}
